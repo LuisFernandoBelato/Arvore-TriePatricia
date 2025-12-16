@@ -69,6 +69,13 @@ The project offers the following operations on the PATRICIA Tree:
 4.  **Word Search (`Busca(String palavra)`):**
     *   Traverses the tree following the character flow of the search word and the skip indices (`Numero`) of the nodes.
     *   Returns `true` if the word is found in the tree and `false` otherwise.
+  
+## Class Diagram (UML)
+
+The following diagram illustrates the structure of the classes used in this project, highlighting the relationships between the main tree logic, the node structure, and the auxiliary queue components.
+
+<img width="1521" height="1105" alt="image" src="https://github.com/user-attachments/assets/cdfbf3bd-4790-4a45-867b-ddbfd892290a" />
+
 
 <div id="pt"></div>
 
@@ -137,3 +144,9 @@ O projeto oferece as seguintes operações sobre a Árvore PATRICIA:
 4.  **Busca de Palavras (`Busca(String palavra)`):**
     *   Percorre a árvore seguindo o fluxo de caracteres da palavra de busca e os índices de salto (`Numero`) dos nós.
     *   Retorna `true` se a palavra é encontrada na árvore e `false` caso contrário.
+  
+## Diagrama de Classes (UML)
+
+O diagrama a seguir ilustra a estrutura das classes utilizadas neste projeto, destacando os relacionamentos entre a lógica principal da árvore, a estrutura dos nós e os componentes auxiliares da fila.
+
+<img width="1521" height="1105" alt="image" src="https://github.com/user-attachments/assets/cdfbf3bd-4790-4a45-867b-ddbfd892290a" />
