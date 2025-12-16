@@ -1,6 +1,8 @@
 ## 🌐 Language | Idioma
 
-[🇺🇸 English (Default)](#patricia-tree-implementation-compressed-trie--5th-term---search-and-sorting) | [🇧🇷 Português](#implementação-de-árvore-patricia-trie-compactada--5º-termo---pesquisa-e-ordenação)
+[🇺🇸 English (Default)](#en) | [🇧🇷 Português](#pt)
+
+<div id="en"></div>
 
 ---
 
@@ -67,6 +69,8 @@ The project offers the following operations on the PATRICIA Tree:
 4.  **Word Search (`Busca(String palavra)`):**
     *   Traverses the tree following the character flow of the search word and the skip indices (`Numero`) of the nodes.
     *   Returns `true` if the word is found in the tree and `false` otherwise.
+
+<div id="pt"></div>
 
 ---
 
